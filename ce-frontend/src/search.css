@@ -1,0 +1,49 @@
+
+.SearchSite{
+    align-items: center;
+    justify-content: center;
+}
+.search{
+    width:300px;
+    margin-right:10px;
+
+}
+
+.divOben{
+    display: flex;
+    flex-direction: row;
+
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+    vertical-align: center;
+
+}
+
+.button{
+
+    align-self: center;
+}
+.overview{display:flex; flex-direction:column}
+.overview-small{
+
+
+     alignItems: "center";
+     justifyContent: "center"
+ }
+
+ table {
+   font-family: arial, sans-serif;
+   border-collapse: collapse;
+   width: 100%;
+ }
+
+ td, th {
+   border: 1px solid #dddddd;
+   text-align: left;
+   padding: 8px;
+ }
+
+ tr:nth-child(even) {
+   background-color: #dddddd;
+ }
